@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980360139007",
+    "project_id": "utech-app",
+    "storage_bucket": "utech-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980360139007:android:8865945afcc6810658fcca",
+        "android_client_info": {
+          "package_name": "com.tu.utech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBDYIK307O-Ux48Hj7uhrEDMCgm-8ug9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

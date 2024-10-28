@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema para la aplicación general -->
+    <style name="Theme.Utech" parent="Theme.Material3.DayNight">
+        <!-- Personaliza los colores aquí -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+
+    <!-- Tema para la Splash Screen -->
+    <style name="Theme.App.SplashScreen" parent="Theme.Material3.DayNight">
+        <item name="windowSplashScreenBackground">@drawable/splash_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.Utech</item>
+    </style>
+</resources>
